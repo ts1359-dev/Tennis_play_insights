@@ -3,5 +3,6 @@ Court lines detection,
 Player box detection, 
 Ball detection, 
 Stroke prediction, 
-Distance covered, 
+Distance covered
+
 ![Alt text](result_output.gif)
