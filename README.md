@@ -1,2 +1,2 @@
 # Tennis_play_insights
-![Alt text](output_compressed.mp4)
+![Alt text](result_output.gif)
